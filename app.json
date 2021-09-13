@@ -29,6 +29,5 @@
     {
       "url": "https://github.com/heroku/heroku-buildpack-multi"
     }
-  ],
-  "stack": "heroku-20"
+  ]
 }
